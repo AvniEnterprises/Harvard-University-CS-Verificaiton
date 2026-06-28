@@ -1,6 +1,6 @@
 # Careful!
 
-You seem to have visited `github.com/me50/USERNAME`, but you forgot to replace `USERNAME` with your own GitHub username! For instance, if your GitHub username were `jharvard` (which it isn't!), you should have visited `github.com/me50/jharvard` instead of `github.com/me50/USERNAME`.
+You seem to have visited `github.com/me50/USERNAME`,its an mistake by the official Harvard University due to some issues its not my name Abdul Haseeb Abdul Ajeem.
 
 ## tl;dr
 
