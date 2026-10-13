@@ -2,7 +2,7 @@
 
 ## Background and Purpose
 
-Between 2023 and 2025, I undertook CS50-related learning that contributed to my development in computer science, programming, and software engineering. This repository documents my progress beyond foundational learning and presents practical evidence of the technical capabilities I have developed through independent projects.
+Between 2019 and 2025, I undertook CS50-related learning that contributed to my development in computer science, programming, and software engineering. This repository documents my progress beyond foundational learning and presents practical evidence of the technical capabilities I have developed through independent projects.
 
 Over time, I have progressed toward designing and building functional web portals and ERP (Enterprise Resource Planning) systems, incorporating database management, SQL, authentication, and application workflows. My objective is to demonstrate practical implementation skills through working software rather than relying solely on course completion or theoretical knowledge.
 
